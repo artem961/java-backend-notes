@@ -176,6 +176,8 @@
     - Schema Registry
     - Эволюция схем
 30. OpenAPI и Swagger
+    - Что такое OpenAPI
+    - Code-first и contract-first
 31. TypeSpec
 
 ## Инженерия
