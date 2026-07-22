@@ -161,6 +161,8 @@
 26. Long Polling
     - Как устроен long polling
 27. SMTP
+    - Как работает почта
+    - Отправка писем из приложения
 28. Kafka
 29. Avro и Schema Registry
 30. OpenAPI и Swagger
