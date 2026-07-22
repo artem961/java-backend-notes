@@ -90,4 +90,7 @@ nav:
           - Синхронизация и блокировки: java/concurrency/synchronization.md
           - Пулы потоков и асинхронность: java/concurrency/thread-pools.md
           - Потокобезопасные коллекции: java/concurrency/concurrent-collections.md
+      - JVM и память:
+          - Устройство JVM: java/jvm/jvm-structure.md
+          - Память и сборка мусора: java/jvm/memory-gc.md
   - Вопросы с собеседований: interview-questions.md

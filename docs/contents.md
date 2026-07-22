@@ -35,8 +35,8 @@
     - [Потокобезопасные коллекции](java/concurrency/concurrent-collections.md)
 
 ??? note "5. JVM и память"
-    - Устройство JVM
-    - Память и сборка мусора
+    - [Устройство JVM](java/jvm/jvm-structure.md)
+    - [Память и сборка мусора](java/jvm/memory-gc.md)
 
 ## Языки и платформы
 
