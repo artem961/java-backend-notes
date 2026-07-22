@@ -66,10 +66,10 @@
     - [Разрешение зависимостей](spring/core/dependency-resolution.md)
 
 ??? note "10. Spring Boot"
-    - Зачем нужен Spring Boot
-    - Автоконфигурация
-    - Конфигурация приложения
-    - Запуск и жизненный цикл приложения
+    - [Зачем нужен Spring Boot](spring/boot/why-spring-boot.md)
+    - [Автоконфигурация](spring/boot/autoconfiguration.md)
+    - [Конфигурация приложения](spring/boot/configuration.md)
+    - [Запуск и жизненный цикл приложения](spring/boot/startup-lifecycle.md)
 
 ??? note "11. Spring MVC"
     - Путь запроса

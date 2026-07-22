@@ -114,4 +114,9 @@ nav:
           - Жизненный цикл бина: spring/core/bean-lifecycle.md
           - Скоупы: spring/core/scopes.md
           - Разрешение зависимостей: spring/core/dependency-resolution.md
+      - Spring Boot:
+          - Зачем нужен Spring Boot: spring/boot/why-spring-boot.md
+          - Автоконфигурация: spring/boot/autoconfiguration.md
+          - Конфигурация приложения: spring/boot/configuration.md
+          - Запуск и жизненный цикл приложения: spring/boot/startup-lifecycle.md
   - Вопросы с собеседований: interview-questions.md
