@@ -224,6 +224,9 @@
     - Dockerfile и сборка
     - Запуск и compose
 38. Kubernetes
+    - Зачем нужен Kubernetes
+    - Основные объекты
+    - Приложение в кластере
 39. Linux
 40. CI/CD
 
