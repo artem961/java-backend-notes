@@ -220,6 +220,9 @@
 ## Инфраструктура
 
 37. Docker
+    - Контейнеры и образы
+    - Dockerfile и сборка
+    - Запуск и compose
 38. Kubernetes
 39. Linux
 40. CI/CD
