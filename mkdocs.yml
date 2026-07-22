@@ -136,4 +136,9 @@ nav:
           - Авторизация: spring/security/authorization.md
           - Сессии, токены и JWT: spring/security/sessions-tokens-jwt.md
           - OAuth2 и внешние провайдеры: spring/security/oauth2.md
+      - Spring Data JPA:
+          - Репозитории: spring/data-jpa/repositories.md
+          - Запросы: spring/data-jpa/queries.md
+          - Пагинация и сортировка: spring/data-jpa/pagination-sorting.md
+          - Модификация данных: spring/data-jpa/modifying.md
   - Вопросы с собеседований: interview-questions.md

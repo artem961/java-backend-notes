@@ -92,10 +92,10 @@
     - [OAuth2 и внешние провайдеры](spring/security/oauth2.md)
 
 ??? note "14. Spring Data JPA"
-    - Репозитории
-    - Запросы
-    - Пагинация и сортировка
-    - Модификация данных
+    - [Репозитории](spring/data-jpa/repositories.md)
+    - [Запросы](spring/data-jpa/queries.md)
+    - [Пагинация и сортировка](spring/data-jpa/pagination-sorting.md)
+    - [Модификация данных](spring/data-jpa/modifying.md)
 
 ??? note "15. Spring Cloud Gateway"
     - Зачем нужен шлюз
