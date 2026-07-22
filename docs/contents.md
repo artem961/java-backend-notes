@@ -179,6 +179,8 @@
     - Что такое OpenAPI
     - Code-first и contract-first
 31. TypeSpec
+    - Что такое TypeSpec
+    - Генерация и процесс работы
 
 ## Инженерия
 
