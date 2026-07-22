@@ -6,15 +6,15 @@
 ## Java
 
 ??? note "1. Java Core"
-    - ООП и наследование
-    - Устройство класса
-    - `Object`, `equals` и `hashCode`
-    - Строки, примитивы и обёртки
-    - Исключения
-    - Дженерики
-    - `null`, `Optional` и неизменяемость
-    - Аннотации и рефлексия
-    - Современная Java
+    - [ООП и наследование](java/core/oop-inheritance.md)
+    - [Устройство класса](java/core/class-structure.md)
+    - [`Object`, `equals` и `hashCode`](java/core/object-equals-hashcode.md)
+    - [Строки, примитивы и обёртки](java/core/strings-primitives-wrappers.md)
+    - [Исключения](java/core/exceptions.md)
+    - [Дженерики](java/core/generics.md)
+    - [`null`, `Optional` и неизменяемость](java/core/null-optional-immutability.md)
+    - [Аннотации и рефлексия](java/core/annotations-reflection.md)
+    - [Современная Java](java/core/modern-java.md)
 
 ??? note "2. Коллекции"
     - Обзор коллекций

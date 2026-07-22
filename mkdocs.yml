@@ -64,4 +64,15 @@ plugins:
 nav:
   - Главная: index.md
   - Содержание: contents.md
+  - Java:
+      - Java Core:
+          - ООП и наследование: java/core/oop-inheritance.md
+          - Устройство класса: java/core/class-structure.md
+          - Object, equals и hashCode: java/core/object-equals-hashcode.md
+          - Строки, примитивы и обёртки: java/core/strings-primitives-wrappers.md
+          - Исключения: java/core/exceptions.md
+          - Дженерики: java/core/generics.md
+          - null, Optional и неизменяемость: java/core/null-optional-immutability.md
+          - Аннотации и рефлексия: java/core/annotations-reflection.md
+          - Современная Java: java/core/modern-java.md
   - Вопросы с собеседований: interview-questions.md
