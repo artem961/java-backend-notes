@@ -150,6 +150,10 @@
     - Виды вызовов
     - gRPC на практике
 24. WebSocket
+    - Что такое WebSocket
+    - Установка соединения
+    - WebSocket в Spring
+    - Эксплуатация и ограничения
 25. SSE
 26. Long Polling
 27. SMTP
