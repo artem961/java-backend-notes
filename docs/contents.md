@@ -159,6 +159,7 @@
     - SSE в Spring
     - Что выбрать: WebSocket, SSE или Long Polling
 26. Long Polling
+    - Как устроен long polling
 27. SMTP
 28. Kafka
 29. Avro и Schema Registry
