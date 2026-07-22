@@ -46,6 +46,8 @@
     - Корутины
     - Kotlin и Spring
 7. Quarkus
+    - Что такое Quarkus и зачем он
+    - Разработка на Quarkus
 8. JavaEE
 
 ## Spring
