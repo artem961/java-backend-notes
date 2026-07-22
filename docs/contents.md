@@ -72,11 +72,11 @@
     - [Запуск и жизненный цикл приложения](spring/boot/startup-lifecycle.md)
 
 ??? note "11. Spring MVC"
-    - Путь запроса
-    - Контроллеры и маппинг параметров
-    - Сериализация и валидация
-    - Обработка ошибок
-    - Фильтры и интерсепторы
+    - [Путь запроса](spring/mvc/request-path.md)
+    - [Контроллеры и маппинг параметров](spring/mvc/controllers-mapping.md)
+    - [Сериализация и валидация](spring/mvc/serialization-validation.md)
+    - [Обработка ошибок](spring/mvc/error-handling.md)
+    - [Фильтры и интерсепторы](spring/mvc/filters-interceptors.md)
 
 ??? note "12. Spring AOP и транзакции"
     - AOP и прокси

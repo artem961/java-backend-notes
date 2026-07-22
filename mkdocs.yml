@@ -119,4 +119,10 @@ nav:
           - Автоконфигурация: spring/boot/autoconfiguration.md
           - Конфигурация приложения: spring/boot/configuration.md
           - Запуск и жизненный цикл приложения: spring/boot/startup-lifecycle.md
+      - Spring MVC:
+          - Путь запроса: spring/mvc/request-path.md
+          - Контроллеры и маппинг параметров: spring/mvc/controllers-mapping.md
+          - Сериализация и валидация: spring/mvc/serialization-validation.md
+          - Обработка ошибок: spring/mvc/error-handling.md
+          - Фильтры и интерсепторы: spring/mvc/filters-interceptors.md
   - Вопросы с собеседований: interview-questions.md
