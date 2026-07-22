@@ -101,4 +101,7 @@ nav:
           - Функциональные возможности: langs/kotlin/functional.md
           - Корутины: langs/kotlin/coroutines.md
           - Kotlin и Spring: langs/kotlin/kotlin-spring.md
+      - Quarkus:
+          - Что такое Quarkus и зачем он: langs/quarkus/what-is-quarkus.md
+          - Разработка на Quarkus: langs/quarkus/development.md
   - Вопросы с собеседований: interview-questions.md

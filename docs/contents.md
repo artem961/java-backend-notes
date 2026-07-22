@@ -49,8 +49,8 @@
     - [Kotlin и Spring](langs/kotlin/kotlin-spring.md)
 
 ??? note "7. Quarkus"
-    - Что такое Quarkus и зачем он
-    - Разработка на Quarkus
+    - [Что такое Quarkus и зачем он](langs/quarkus/what-is-quarkus.md)
+    - [Разработка на Quarkus](langs/quarkus/development.md)
 
 ??? note "8. JavaEE"
     - Что такое JavaEE и Jakarta EE
