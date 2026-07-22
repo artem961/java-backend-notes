@@ -171,6 +171,10 @@
     - Гарантии доставки
     - Kafka в Spring
 29. Avro и Schema Registry
+    - Зачем нужна схема
+    - Avro
+    - Schema Registry
+    - Эволюция схем
 30. OpenAPI и Swagger
 31. TypeSpec
 
