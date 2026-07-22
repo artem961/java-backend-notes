@@ -17,11 +17,11 @@
     - [Современная Java](java/core/modern-java.md)
 
 ??? note "2. Коллекции"
-    - Обзор коллекций
-    - List
-    - Map
-    - Set
-    - Сравнение, сортировка и итерирование
+    - [Обзор коллекций](java/collections/overview.md)
+    - [List](java/collections/list.md)
+    - [Map](java/collections/map.md)
+    - [Set](java/collections/set.md)
+    - [Сравнение, сортировка и итерирование](java/collections/comparing-sorting-iterating.md)
 
 ??? note "3. Stream API"
     - Лямбды и функциональный стиль

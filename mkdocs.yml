@@ -75,4 +75,10 @@ nav:
           - null, Optional и неизменяемость: java/core/null-optional-immutability.md
           - Аннотации и рефлексия: java/core/annotations-reflection.md
           - Современная Java: java/core/modern-java.md
+      - Коллекции:
+          - Обзор коллекций: java/collections/overview.md
+          - List: java/collections/list.md
+          - Map: java/collections/map.md
+          - Set: java/collections/set.md
+          - Сравнение, сортировка и итерирование: java/collections/comparing-sorting-iterating.md
   - Вопросы с собеседований: interview-questions.md
