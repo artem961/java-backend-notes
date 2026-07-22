@@ -72,6 +72,10 @@
     - Обработка ошибок
     - Фильтры и интерсепторы
 12. Spring AOP и транзакции
+    - AOP и прокси
+    - Транзакции в Spring
+    - Распространение и изоляция
+    - Где `@Transactional` ломается
 13. Spring Security
 14. Spring Data JPA
 15. Spring Cloud Gateway
