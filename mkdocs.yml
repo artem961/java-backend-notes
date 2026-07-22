@@ -84,4 +84,10 @@ nav:
       - Stream API:
           - Лямбды и функциональный стиль: java/streams/lambdas.md
           - Устройство и операции стримов: java/streams/stream-operations.md
+      - Многопоточность:
+          - Основы многопоточности: java/concurrency/basics.md
+          - Проблемы многопоточности: java/concurrency/problems.md
+          - Синхронизация и блокировки: java/concurrency/synchronization.md
+          - Пулы потоков и асинхронность: java/concurrency/thread-pools.md
+          - Потокобезопасные коллекции: java/concurrency/concurrent-collections.md
   - Вопросы с собеседований: interview-questions.md

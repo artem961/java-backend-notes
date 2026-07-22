@@ -28,11 +28,11 @@
     - [Устройство и операции стримов](java/streams/stream-operations.md)
 
 ??? note "4. Многопоточность"
-    - Основы многопоточности
-    - Проблемы многопоточности
-    - Синхронизация и блокировки
-    - Пулы потоков и асинхронность
-    - Потокобезопасные коллекции
+    - [Основы многопоточности](java/concurrency/basics.md)
+    - [Проблемы многопоточности](java/concurrency/problems.md)
+    - [Синхронизация и блокировки](java/concurrency/synchronization.md)
+    - [Пулы потоков и асинхронность](java/concurrency/thread-pools.md)
+    - [Потокобезопасные коллекции](java/concurrency/concurrent-collections.md)
 
 ??? note "5. JVM и память"
     - Устройство JVM
