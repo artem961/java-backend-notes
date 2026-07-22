@@ -107,4 +107,11 @@ nav:
       - JavaEE:
           - Что такое JavaEE и Jakarta EE: langs/javaee/what-is-javaee.md
           - Основные технологии: langs/javaee/core-technologies.md
+  - Spring:
+      - Spring Core:
+          - IoC и внедрение зависимостей: spring/core/ioc-di.md
+          - Бины и контекст: spring/core/beans-context.md
+          - Жизненный цикл бина: spring/core/bean-lifecycle.md
+          - Скоупы: spring/core/scopes.md
+          - Разрешение зависимостей: spring/core/dependency-resolution.md
   - Вопросы с собеседований: interview-questions.md

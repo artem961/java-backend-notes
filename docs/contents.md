@@ -59,11 +59,11 @@
 ## Spring
 
 ??? note "9. Spring Core"
-    - IoC и внедрение зависимостей
-    - Бины и контекст
-    - Жизненный цикл бина
-    - Скоупы
-    - Разрешение зависимостей
+    - [IoC и внедрение зависимостей](spring/core/ioc-di.md)
+    - [Бины и контекст](spring/core/beans-context.md)
+    - [Жизненный цикл бина](spring/core/bean-lifecycle.md)
+    - [Скоупы](spring/core/scopes.md)
+    - [Разрешение зависимостей](spring/core/dependency-resolution.md)
 
 ??? note "10. Spring Boot"
     - Зачем нужен Spring Boot
