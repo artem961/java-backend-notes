@@ -104,4 +104,7 @@ nav:
       - Quarkus:
           - Что такое Quarkus и зачем он: langs/quarkus/what-is-quarkus.md
           - Разработка на Quarkus: langs/quarkus/development.md
+      - JavaEE:
+          - Что такое JavaEE и Jakarta EE: langs/javaee/what-is-javaee.md
+          - Основные технологии: langs/javaee/core-technologies.md
   - Вопросы с собеседований: interview-questions.md

@@ -53,8 +53,8 @@
     - [Разработка на Quarkus](langs/quarkus/development.md)
 
 ??? note "8. JavaEE"
-    - Что такое JavaEE и Jakarta EE
-    - Основные технологии
+    - [Что такое JavaEE и Jakarta EE](langs/javaee/what-is-javaee.md)
+    - [Основные технологии](langs/javaee/core-technologies.md)
 
 ## Spring
 
