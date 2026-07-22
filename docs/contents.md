@@ -41,12 +41,12 @@
 ## Языки и платформы
 
 ??? note "6. Kotlin"
-    - Синтаксис и отличия от Java
-    - Null safety
-    - Классы и объекты
-    - Функциональные возможности
-    - Корутины
-    - Kotlin и Spring
+    - [Синтаксис и отличия от Java](langs/kotlin/syntax-vs-java.md)
+    - [Null safety](langs/kotlin/null-safety.md)
+    - [Классы и объекты](langs/kotlin/classes-objects.md)
+    - [Функциональные возможности](langs/kotlin/functional.md)
+    - [Корутины](langs/kotlin/coroutines.md)
+    - [Kotlin и Spring](langs/kotlin/kotlin-spring.md)
 
 ??? note "7. Quarkus"
     - Что такое Quarkus и зачем он
