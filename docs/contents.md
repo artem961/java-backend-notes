@@ -77,6 +77,11 @@
     - Распространение и изоляция
     - Где `@Transactional` ломается
 13. Spring Security
+    - Как устроен Spring Security
+    - Аутентификация
+    - Авторизация
+    - Сессии, токены и JWT
+    - OAuth2 и внешние провайдеры
 14. Spring Data JPA
 15. Spring Cloud Gateway
 
