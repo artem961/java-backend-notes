@@ -1,0 +1,10 @@
+site/
+.venv/
+venv/
+__pycache__/
+.DS_Store
+.obsidian/workspace.json
+
+# Локальный контекст для Claude Code — не публиковать
+CLAUDE.md
+.claude/
