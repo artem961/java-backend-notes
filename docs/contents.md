@@ -24,8 +24,8 @@
     - [Сравнение, сортировка и итерирование](java/collections/comparing-sorting-iterating.md)
 
 ??? note "3. Stream API"
-    - Лямбды и функциональный стиль
-    - Устройство и операции стримов
+    - [Лямбды и функциональный стиль](java/streams/lambdas.md)
+    - [Устройство и операции стримов](java/streams/stream-operations.md)
 
 ??? note "4. Многопоточность"
     - Основы многопоточности

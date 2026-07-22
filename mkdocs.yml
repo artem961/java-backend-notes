@@ -81,4 +81,7 @@ nav:
           - Map: java/collections/map.md
           - Set: java/collections/set.md
           - Сравнение, сортировка и итерирование: java/collections/comparing-sorting-iterating.md
+      - Stream API:
+          - Лямбды и функциональный стиль: java/streams/lambdas.md
+          - Устройство и операции стримов: java/streams/stream-operations.md
   - Вопросы с собеседований: interview-questions.md
