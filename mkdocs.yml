@@ -141,4 +141,9 @@ nav:
           - Запросы: spring/data-jpa/queries.md
           - Пагинация и сортировка: spring/data-jpa/pagination-sorting.md
           - Модификация данных: spring/data-jpa/modifying.md
+      - Spring Cloud Gateway:
+          - Зачем нужен шлюз: spring/gateway/why-gateway.md
+          - Маршрутизация: spring/gateway/routing.md
+          - Фильтры: spring/gateway/filters.md
+          - Реактивность и эксплуатация: spring/gateway/reactive-operations.md
   - Вопросы с собеседований: interview-questions.md

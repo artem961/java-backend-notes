@@ -98,10 +98,10 @@
     - [Модификация данных](spring/data-jpa/modifying.md)
 
 ??? note "15. Spring Cloud Gateway"
-    - Зачем нужен шлюз
-    - Маршрутизация
-    - Фильтры
-    - Реактивность и эксплуатация
+    - [Зачем нужен шлюз](spring/gateway/why-gateway.md)
+    - [Маршрутизация](spring/gateway/routing.md)
+    - [Фильтры](spring/gateway/filters.md)
+    - [Реактивность и эксплуатация](spring/gateway/reactive-operations.md)
 
 ## Данные
 
