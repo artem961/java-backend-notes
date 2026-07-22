@@ -85,11 +85,11 @@
     - [Где `@Transactional` ломается](spring/aop/transactional-pitfalls.md)
 
 ??? note "13. Spring Security"
-    - Как устроен Spring Security
-    - Аутентификация
-    - Авторизация
-    - Сессии, токены и JWT
-    - OAuth2 и внешние провайдеры
+    - [Как устроен Spring Security](spring/security/architecture.md)
+    - [Аутентификация](spring/security/authentication.md)
+    - [Авторизация](spring/security/authorization.md)
+    - [Сессии, токены и JWT](spring/security/sessions-tokens-jwt.md)
+    - [OAuth2 и внешние провайдеры](spring/security/oauth2.md)
 
 ??? note "14. Spring Data JPA"
     - Репозитории

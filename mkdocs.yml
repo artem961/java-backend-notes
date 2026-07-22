@@ -130,4 +130,10 @@ nav:
           - Транзакции в Spring: spring/aop/transactions.md
           - Распространение и изоляция: spring/aop/propagation-isolation.md
           - Где @Transactional ломается: spring/aop/transactional-pitfalls.md
+      - Spring Security:
+          - Как устроен Spring Security: spring/security/architecture.md
+          - Аутентификация: spring/security/authentication.md
+          - Авторизация: spring/security/authorization.md
+          - Сессии, токены и JWT: spring/security/sessions-tokens-jwt.md
+          - OAuth2 и внешние провайдеры: spring/security/oauth2.md
   - Вопросы с собеседований: interview-questions.md
