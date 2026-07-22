@@ -49,6 +49,8 @@
     - Что такое Quarkus и зачем он
     - Разработка на Quarkus
 8. JavaEE
+    - Что такое JavaEE и Jakarta EE
+    - Основные технологии
 
 ## Spring
 
