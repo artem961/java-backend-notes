@@ -125,4 +125,9 @@ nav:
           - Сериализация и валидация: spring/mvc/serialization-validation.md
           - Обработка ошибок: spring/mvc/error-handling.md
           - Фильтры и интерсепторы: spring/mvc/filters-interceptors.md
+      - Spring AOP и транзакции:
+          - AOP и прокси: spring/aop/aop-proxies.md
+          - Транзакции в Spring: spring/aop/transactions.md
+          - Распространение и изоляция: spring/aop/propagation-isolation.md
+          - Где @Transactional ломается: spring/aop/transactional-pitfalls.md
   - Вопросы с собеседований: interview-questions.md

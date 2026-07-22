@@ -79,10 +79,10 @@
     - [Фильтры и интерсепторы](spring/mvc/filters-interceptors.md)
 
 ??? note "12. Spring AOP и транзакции"
-    - AOP и прокси
-    - Транзакции в Spring
-    - Распространение и изоляция
-    - Где `@Transactional` ломается
+    - [AOP и прокси](spring/aop/aop-proxies.md)
+    - [Транзакции в Spring](spring/aop/transactions.md)
+    - [Распространение и изоляция](spring/aop/propagation-isolation.md)
+    - [Где `@Transactional` ломается](spring/aop/transactional-pitfalls.md)
 
 ??? note "13. Spring Security"
     - Как устроен Spring Security
