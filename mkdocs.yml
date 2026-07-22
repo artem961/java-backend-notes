@@ -64,3 +64,4 @@ plugins:
 nav:
   - Главная: index.md
   - Содержание: contents.md
+  - Вопросы с собеседований: interview-questions.md
