@@ -119,10 +119,10 @@
     - [Оптимистичная и пессимистичная блокировка](data/sql/optimistic-pessimistic.md)
 
 ??? note "17. Репликация и шардирование"
-    - Репликация
-    - Чтение с реплик и согласованность
-    - Партиционирование
-    - Шардирование
+    - [Репликация](data/scaling/replication.md)
+    - [Чтение с реплик и согласованность](data/scaling/replica-reads.md)
+    - [Партиционирование](data/scaling/partitioning.md)
+    - [Шардирование](data/scaling/sharding.md)
 
 ??? note "18. JPA и Hibernate"
     - Что такое JPA и ORM

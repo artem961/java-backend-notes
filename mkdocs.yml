@@ -159,4 +159,9 @@ nav:
           - MVCC в PostgreSQL: data/sql/mvcc.md
           - Пессимистичные блокировки: data/sql/pessimistic-locks.md
           - Оптимистичная и пессимистичная блокировка: data/sql/optimistic-pessimistic.md
+      - Репликация и шардирование:
+          - Репликация: data/scaling/replication.md
+          - Чтение с реплик и согласованность: data/scaling/replica-reads.md
+          - Партиционирование: data/scaling/partitioning.md
+          - Шардирование: data/scaling/sharding.md
   - Вопросы с собеседований: interview-questions.md
