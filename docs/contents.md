@@ -148,10 +148,10 @@
     - [Персистентность и надёжность](data/redis/persistence.md)
 
 ??? note "21. S3 и MinIO"
-    - Объектное хранилище
-    - S3 и MinIO
-    - Работа из приложения
-    - Presigned URL
+    - [Объектное хранилище](data/s3/object-storage.md)
+    - [S3 и MinIO](data/s3/s3-minio.md)
+    - [Работа из приложения](data/s3/from-application.md)
+    - [Presigned URL](data/s3/presigned-url.md)
 
 ## Взаимодействие
 
