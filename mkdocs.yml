@@ -164,4 +164,13 @@ nav:
           - Чтение с реплик и согласованность: data/scaling/replica-reads.md
           - Партиционирование: data/scaling/partitioning.md
           - Шардирование: data/scaling/sharding.md
+      - JPA и Hibernate:
+          - Что такое JPA и ORM: data/jpa/what-is-jpa.md
+          - Сущности и маппинг: data/jpa/entities-mapping.md
+          - Persistence context: data/jpa/persistence-context.md
+          - Связи между сущностями: data/jpa/associations.md
+          - Ленивая загрузка и N+1: data/jpa/lazy-n-plus-1.md
+          - Запросы: data/jpa/queries.md
+          - Блокировки и конкурентный доступ: data/jpa/locking.md
+          - Кэш второго уровня: data/jpa/second-level-cache.md
   - Вопросы с собеседований: interview-questions.md

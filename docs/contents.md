@@ -125,14 +125,14 @@
     - [Шардирование](data/scaling/sharding.md)
 
 ??? note "18. JPA и Hibernate"
-    - Что такое JPA и ORM
-    - Сущности и маппинг
-    - Persistence context
-    - Связи между сущностями
-    - Ленивая загрузка и N+1
-    - Запросы
-    - Блокировки и конкурентный доступ
-    - Кэш второго уровня
+    - [Что такое JPA и ORM](data/jpa/what-is-jpa.md)
+    - [Сущности и маппинг](data/jpa/entities-mapping.md)
+    - [Persistence context](data/jpa/persistence-context.md)
+    - [Связи между сущностями](data/jpa/associations.md)
+    - [Ленивая загрузка и N+1](data/jpa/lazy-n-plus-1.md)
+    - [Запросы](data/jpa/queries.md)
+    - [Блокировки и конкурентный доступ](data/jpa/locking.md)
+    - [Кэш второго уровня](data/jpa/second-level-cache.md)
 
 ??? note "19. Миграции БД"
     - Зачем нужны миграции
