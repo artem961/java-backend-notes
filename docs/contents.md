@@ -106,17 +106,17 @@
 ## Данные
 
 ??? note "16. БД и SQL"
-    - Реляционная модель
-    - Выборка данных
-    - Агрегация и группировка
-    - Изменение данных и DDL
-    - Индексы
-    - Производительность запросов
-    - Транзакции и ACID
-    - Уровни изоляции и аномалии
-    - MVCC в PostgreSQL
-    - Пессимистичные блокировки
-    - Оптимистичная и пессимистичная блокировка
+    - [Реляционная модель](data/sql/relational-model.md)
+    - [Выборка данных](data/sql/querying.md)
+    - [Агрегация и группировка](data/sql/aggregation.md)
+    - [Изменение данных и DDL](data/sql/modifying-ddl.md)
+    - [Индексы](data/sql/indexes.md)
+    - [Производительность запросов](data/sql/query-performance.md)
+    - [Транзакции и ACID](data/sql/transactions-acid.md)
+    - [Уровни изоляции и аномалии](data/sql/isolation-anomalies.md)
+    - [MVCC в PostgreSQL](data/sql/mvcc.md)
+    - [Пессимистичные блокировки](data/sql/pessimistic-locks.md)
+    - [Оптимистичная и пессимистичная блокировка](data/sql/optimistic-pessimistic.md)
 
 ??? note "17. Репликация и шардирование"
     - Репликация
