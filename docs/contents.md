@@ -135,9 +135,9 @@
     - [Кэш второго уровня](data/jpa/second-level-cache.md)
 
 ??? note "19. Миграции БД"
-    - Зачем нужны миграции
-    - Flyway и Liquibase
-    - Миграции на живой базе
+    - [Зачем нужны миграции](data/migrations/why-migrations.md)
+    - [Flyway и Liquibase](data/migrations/flyway-liquibase.md)
+    - [Миграции на живой базе](data/migrations/live-migrations.md)
 
 ??? note "20. Redis"
     - Что такое Redis
