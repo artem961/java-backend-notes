@@ -140,12 +140,12 @@
     - [Миграции на живой базе](data/migrations/live-migrations.md)
 
 ??? note "20. Redis"
-    - Что такое Redis
-    - Кэширование: стратегии
-    - Проблемы кэширования
-    - Redis не только кэш
-    - Redis в Spring
-    - Персистентность и надёжность
+    - [Что такое Redis](data/redis/what-is-redis.md)
+    - [Кэширование: стратегии](data/redis/caching-strategies.md)
+    - [Проблемы кэширования](data/redis/caching-problems.md)
+    - [Redis не только кэш](data/redis/beyond-cache.md)
+    - [Redis в Spring](data/redis/redis-in-spring.md)
+    - [Персистентность и надёжность](data/redis/persistence.md)
 
 ??? note "21. S3 и MinIO"
     - Объектное хранилище

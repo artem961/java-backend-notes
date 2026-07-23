@@ -177,4 +177,11 @@ nav:
           - Зачем нужны миграции: data/migrations/why-migrations.md
           - Flyway и Liquibase: data/migrations/flyway-liquibase.md
           - Миграции на живой базе: data/migrations/live-migrations.md
+      - Redis:
+          - Что такое Redis: data/redis/what-is-redis.md
+          - "Кэширование: стратегии": data/redis/caching-strategies.md
+          - Проблемы кэширования: data/redis/caching-problems.md
+          - Redis не только кэш: data/redis/beyond-cache.md
+          - Redis в Spring: data/redis/redis-in-spring.md
+          - Персистентность и надёжность: data/redis/persistence.md
   - Вопросы с собеседований: interview-questions.md
