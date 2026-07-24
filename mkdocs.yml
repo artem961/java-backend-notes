@@ -281,4 +281,9 @@ nav:
           - Jackson: engineering/tools/jackson.md
           - Рабочие инструменты: engineering/tools/work-tools.md
           - ИИ-инструменты в разработке: engineering/tools/ai-tools.md
+  - Инфраструктура:
+      - Docker:
+          - Контейнеры и образы: infrastructure/docker/containers-images.md
+          - Dockerfile и сборка: infrastructure/docker/dockerfile.md
+          - Запуск и compose: infrastructure/docker/compose.md
   - Вопросы с собеседований: interview-questions.md
