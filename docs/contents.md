@@ -256,12 +256,12 @@
     - [Когда всё сломалось](engineering/git/recovery.md)
 
 ??? note "37. Инструменты и библиотеки"
-    - Lombok
-    - MapStruct
-    - Thymeleaf
-    - Jackson
-    - Рабочие инструменты
-    - ИИ-инструменты в разработке
+    - [Lombok](engineering/tools/lombok.md)
+    - [MapStruct](engineering/tools/mapstruct.md)
+    - [Thymeleaf](engineering/tools/thymeleaf.md)
+    - [Jackson](engineering/tools/jackson.md)
+    - [Рабочие инструменты](engineering/tools/work-tools.md)
+    - [ИИ-инструменты в разработке](engineering/tools/ai-tools.md)
 
 ## Инфраструктура
 

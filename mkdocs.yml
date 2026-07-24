@@ -274,4 +274,11 @@ nav:
           - Повседневная работа: engineering/git/daily-work.md
           - Командные процессы: engineering/git/team-workflow.md
           - Когда всё сломалось: engineering/git/recovery.md
+      - Инструменты и библиотеки:
+          - Lombok: engineering/tools/lombok.md
+          - MapStruct: engineering/tools/mapstruct.md
+          - Thymeleaf: engineering/tools/thymeleaf.md
+          - Jackson: engineering/tools/jackson.md
+          - Рабочие инструменты: engineering/tools/work-tools.md
+          - ИИ-инструменты в разработке: engineering/tools/ai-tools.md
   - Вопросы с собеседований: interview-questions.md
