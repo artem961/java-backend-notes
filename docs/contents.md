@@ -271,9 +271,9 @@
     - [Запуск и compose](infrastructure/docker/compose.md)
 
 ??? note "39. Kubernetes"
-    - Зачем нужен Kubernetes
-    - Основные объекты
-    - Приложение в кластере
+    - [Зачем нужен Kubernetes](infrastructure/k8s/why-kubernetes.md)
+    - [Основные объекты](infrastructure/k8s/objects.md)
+    - [Приложение в кластере](infrastructure/k8s/app-in-cluster.md)
 
 ??? note "40. Linux"
     - Основы работы в терминале
