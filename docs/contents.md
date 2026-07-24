@@ -205,10 +205,10 @@
     - [Kafka в Spring](integration/kafka/kafka-in-spring.md)
 
 ??? note "30. Avro и Schema Registry"
-    - Зачем нужна схема
-    - Avro
-    - Schema Registry
-    - Эволюция схем
+    - [Зачем нужна схема](integration/avro/why-schema.md)
+    - [Avro](integration/avro/avro.md)
+    - [Schema Registry](integration/avro/schema-registry.md)
+    - [Эволюция схем](integration/avro/schema-evolution.md)
 
 ??? note "31. OpenAPI и Swagger"
     - Что такое OpenAPI

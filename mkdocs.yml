@@ -231,4 +231,9 @@ nav:
           - Консьюмер: integration/kafka/consumer.md
           - Гарантии доставки: integration/kafka/delivery-guarantees.md
           - Kafka в Spring: integration/kafka/kafka-in-spring.md
+      - Avro и Schema Registry:
+          - Зачем нужна схема: integration/avro/why-schema.md
+          - Avro: integration/avro/avro.md
+          - Schema Registry: integration/avro/schema-registry.md
+          - Эволюция схем: integration/avro/schema-evolution.md
   - Вопросы с собеседований: interview-questions.md
