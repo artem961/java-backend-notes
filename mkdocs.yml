@@ -224,4 +224,11 @@ nav:
       - SMTP:
           - Как работает почта: integration/smtp/how-email-works.md
           - Отправка писем из приложения: integration/smtp/sending-from-application.md
+      - Kafka:
+          - Что такое Kafka и зачем: integration/kafka/what-is-kafka.md
+          - Устройство: integration/kafka/architecture.md
+          - Продюсер: integration/kafka/producer.md
+          - Консьюмер: integration/kafka/consumer.md
+          - Гарантии доставки: integration/kafka/delivery-guarantees.md
+          - Kafka в Spring: integration/kafka/kafka-in-spring.md
   - Вопросы с собеседований: interview-questions.md
