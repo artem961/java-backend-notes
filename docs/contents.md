@@ -173,10 +173,10 @@
     - [Версионирование и эволюция](integration/rest/versioning.md)
 
 ??? note "24. gRPC"
-    - Что такое gRPC и зачем
-    - Protobuf и контракт
-    - Виды вызовов
-    - gRPC на практике
+    - [Что такое gRPC и зачем](integration/grpc/what-is-grpc.md)
+    - [Protobuf и контракт](integration/grpc/protobuf-contract.md)
+    - [Виды вызовов](integration/grpc/call-types.md)
+    - [gRPC на практике](integration/grpc/grpc-in-practice.md)
 
 ??? note "25. WebSocket"
     - Что такое WebSocket

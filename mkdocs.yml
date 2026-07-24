@@ -205,4 +205,9 @@ nav:
           - Ошибки и статусы: integration/rest/errors-statuses.md
           - Идемпотентность и надёжность: integration/rest/idempotency-reliability.md
           - Версионирование и эволюция: integration/rest/versioning.md
+      - gRPC:
+          - Что такое gRPC и зачем: integration/grpc/what-is-grpc.md
+          - Protobuf и контракт: integration/grpc/protobuf-contract.md
+          - Виды вызовов: integration/grpc/call-types.md
+          - gRPC на практике: integration/grpc/grpc-in-practice.md
   - Вопросы с собеседований: interview-questions.md
