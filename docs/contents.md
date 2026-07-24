@@ -166,11 +166,11 @@
     - [CORS](integration/http/cors.md)
 
 ??? note "23. REST"
-    - Что такое REST
-    - Проектирование ресурсов и данных
-    - Ошибки и статусы
-    - Идемпотентность и надёжность
-    - Версионирование и эволюция
+    - [Что такое REST](integration/rest/what-is-rest.md)
+    - [Проектирование ресурсов и данных](integration/rest/resource-design.md)
+    - [Ошибки и статусы](integration/rest/errors-statuses.md)
+    - [Идемпотентность и надёжность](integration/rest/idempotency-reliability.md)
+    - [Версионирование и эволюция](integration/rest/versioning.md)
 
 ??? note "24. gRPC"
     - Что такое gRPC и зачем

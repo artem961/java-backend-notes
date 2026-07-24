@@ -199,4 +199,10 @@ nav:
           - TLS и HTTPS: integration/http/tls-https.md
           - Обратный прокси и балансировщик: integration/http/reverse-proxy-balancer.md
           - CORS: integration/http/cors.md
+      - REST:
+          - Что такое REST: integration/rest/what-is-rest.md
+          - Проектирование ресурсов и данных: integration/rest/resource-design.md
+          - Ошибки и статусы: integration/rest/errors-statuses.md
+          - Идемпотентность и надёжность: integration/rest/idempotency-reliability.md
+          - Версионирование и эволюция: integration/rest/versioning.md
   - Вопросы с собеседований: interview-questions.md
