@@ -211,12 +211,12 @@
     - [Эволюция схем](integration/avro/schema-evolution.md)
 
 ??? note "31. OpenAPI и Swagger"
-    - Что такое OpenAPI
-    - Code-first и contract-first
+    - [Что такое OpenAPI](integration/openapi/what-is-openapi.md)
+    - [Code-first и contract-first](integration/openapi/code-first-contract-first.md)
 
 ??? note "32. TypeSpec"
-    - Что такое TypeSpec
-    - Генерация и процесс работы
+    - [Что такое TypeSpec](integration/typespec/what-is-typespec.md)
+    - [Генерация и процесс работы](integration/typespec/generation-workflow.md)
 
 ## Инженерия
 

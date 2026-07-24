@@ -236,4 +236,10 @@ nav:
           - Avro: integration/avro/avro.md
           - Schema Registry: integration/avro/schema-registry.md
           - Эволюция схем: integration/avro/schema-evolution.md
+      - OpenAPI и Swagger:
+          - Что такое OpenAPI: integration/openapi/what-is-openapi.md
+          - Code-first и contract-first: integration/openapi/code-first-contract-first.md
+      - TypeSpec:
+          - Что такое TypeSpec: integration/typespec/what-is-typespec.md
+          - Генерация и процесс работы: integration/typespec/generation-workflow.md
   - Вопросы с собеседований: interview-questions.md
