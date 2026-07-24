@@ -215,4 +215,8 @@ nav:
           - Установка соединения: integration/websocket/handshake.md
           - WebSocket в Spring: integration/websocket/websocket-in-spring.md
           - Эксплуатация и ограничения: integration/websocket/operations-limits.md
+      - SSE:
+          - Что такое SSE: integration/sse/what-is-sse.md
+          - SSE в Spring: integration/sse/sse-in-spring.md
+          - "Что выбрать: WebSocket, SSE или Long Polling": integration/sse/websocket-vs-sse-vs-polling.md
   - Вопросы с собеседований: interview-questions.md

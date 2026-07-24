@@ -185,9 +185,9 @@
     - [Эксплуатация и ограничения](integration/websocket/operations-limits.md)
 
 ??? note "26. SSE"
-    - Что такое SSE
-    - SSE в Spring
-    - Что выбрать: WebSocket, SSE или Long Polling
+    - [Что такое SSE](integration/sse/what-is-sse.md)
+    - [SSE в Spring](integration/sse/sse-in-spring.md)
+    - [Что выбрать: WebSocket, SSE или Long Polling](integration/sse/websocket-vs-sse-vs-polling.md)
 
 ??? note "27. Long Polling"
     - Как устроен long polling
