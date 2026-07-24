@@ -190,11 +190,11 @@
     - [Что выбрать: WebSocket, SSE или Long Polling](integration/sse/websocket-vs-sse-vs-polling.md)
 
 ??? note "27. Long Polling"
-    - Как устроен long polling
+    - [Как устроен long polling](integration/long-polling/long-polling.md)
 
 ??? note "28. SMTP"
-    - Как работает почта
-    - Отправка писем из приложения
+    - [Как работает почта](integration/smtp/how-email-works.md)
+    - [Отправка писем из приложения](integration/smtp/sending-from-application.md)
 
 ??? note "29. Kafka"
     - Что такое Kafka и зачем

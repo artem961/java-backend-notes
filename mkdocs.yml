@@ -219,4 +219,9 @@ nav:
           - Что такое SSE: integration/sse/what-is-sse.md
           - SSE в Spring: integration/sse/sse-in-spring.md
           - "Что выбрать: WebSocket, SSE или Long Polling": integration/sse/websocket-vs-sse-vs-polling.md
+      - Long Polling:
+          - Как устроен long polling: integration/long-polling/long-polling.md
+      - SMTP:
+          - Как работает почта: integration/smtp/how-email-works.md
+          - Отправка писем из приложения: integration/smtp/sending-from-application.md
   - Вопросы с собеседований: interview-questions.md
