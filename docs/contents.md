@@ -221,14 +221,20 @@
 ## Инженерия
 
 ??? note "33. Проектирование и паттерны"
-    - SOLID
-    - Остальные принципы
-    - Основные паттерны GoF
-    - Паттерны в Spring
-    - Слои приложения
-    - Монолит и микросервисы
-    - Надёжность распределённых систем
-    - Согласованность данных
+    - [SOLID](engineering/design/solid.md)
+    - [Другие принципы проектирования](engineering/design/principles.md)
+    - [Порождающие паттерны](engineering/design/patterns-creational.md)
+    - [Структурные паттерны](engineering/design/patterns-structural.md)
+    - [Поведенческие паттерны](engineering/design/patterns-behavioral.md)
+    - [Паттерны в Spring](engineering/design/patterns-in-spring.md)
+    - [Слои приложения](engineering/design/layers.md)
+    - [Монолит и микросервисы](engineering/design/monolith-vs-microservices.md)
+    - [Проблемы распределённых систем и CAP](engineering/design/distributed-challenges.md)
+    - [Устойчивость: таймауты, ретраи, circuit breaker](engineering/design/resilience.md)
+    - [Согласованность данных и Saga](engineering/design/consistency-saga.md)
+    - [Outbox и надёжная публикация событий](engineering/design/outbox.md)
+    - [Идемпотентность и дедупликация](engineering/design/idempotency.md)
+    - [Коммуникация сервисов](engineering/design/service-communication.md)
 
 ??? note "34. Тестирование"
     - Виды тестов и подходы
