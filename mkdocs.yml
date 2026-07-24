@@ -265,4 +265,8 @@ nav:
           - Тестирование Spring-приложений: engineering/testing/spring-testing.md
           - Testcontainers: engineering/testing/testcontainers.md
           - Хорошие и плохие тесты: engineering/testing/good-tests.md
+      - Сборка проектов:
+          - Maven: engineering/build/maven.md
+          - Gradle: engineering/build/gradle.md
+          - Зависимости и конфликты: engineering/build/dependencies.md
   - Вопросы с собеседований: interview-questions.md

@@ -245,9 +245,9 @@
     - [Хорошие и плохие тесты](engineering/testing/good-tests.md)
 
 ??? note "35. Сборка проектов"
-    - Maven
-    - Gradle
-    - Зависимости и конфликты
+    - [Maven](engineering/build/maven.md)
+    - [Gradle](engineering/build/gradle.md)
+    - [Зависимости и конфликты](engineering/build/dependencies.md)
 
 ??? note "36. Git"
     - Как устроен Git
