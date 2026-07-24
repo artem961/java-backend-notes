@@ -156,14 +156,14 @@
 ## Взаимодействие
 
 ??? note "22. HTTP"
-    - Как работает HTTP
-    - Методы и коды ответа
-    - Заголовки и тело
-    - Куки и сессии
-    - Кэширование в HTTP
-    - TLS и HTTPS
-    - Обратный прокси и балансировщик
-    - CORS
+    - [Как работает HTTP](integration/http/how-http-works.md)
+    - [Методы и коды ответа](integration/http/methods-status-codes.md)
+    - [Заголовки и тело](integration/http/headers-body.md)
+    - [Куки и сессии](integration/http/cookies-sessions.md)
+    - [Кэширование в HTTP](integration/http/caching.md)
+    - [TLS и HTTPS](integration/http/tls-https.md)
+    - [Обратный прокси и балансировщик](integration/http/reverse-proxy-balancer.md)
+    - [CORS](integration/http/cors.md)
 
 ??? note "23. REST"
     - Что такое REST

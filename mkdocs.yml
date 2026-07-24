@@ -189,4 +189,14 @@ nav:
           - S3 и MinIO: data/s3/s3-minio.md
           - Работа из приложения: data/s3/from-application.md
           - Presigned URL: data/s3/presigned-url.md
+  - Взаимодействие:
+      - HTTP:
+          - Как работает HTTP: integration/http/how-http-works.md
+          - Методы и коды ответа: integration/http/methods-status-codes.md
+          - Заголовки и тело: integration/http/headers-body.md
+          - Куки и сессии: integration/http/cookies-sessions.md
+          - Кэширование в HTTP: integration/http/caching.md
+          - TLS и HTTPS: integration/http/tls-https.md
+          - Обратный прокси и балансировщик: integration/http/reverse-proxy-balancer.md
+          - CORS: integration/http/cors.md
   - Вопросы с собеседований: interview-questions.md
