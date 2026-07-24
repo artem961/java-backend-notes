@@ -269,4 +269,9 @@ nav:
           - Maven: engineering/build/maven.md
           - Gradle: engineering/build/gradle.md
           - Зависимости и конфликты: engineering/build/dependencies.md
+      - Git:
+          - Как устроен Git: engineering/git/how-git-works.md
+          - Повседневная работа: engineering/git/daily-work.md
+          - Командные процессы: engineering/git/team-workflow.md
+          - Когда всё сломалось: engineering/git/recovery.md
   - Вопросы с собеседований: interview-questions.md

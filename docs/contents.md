@@ -250,10 +250,10 @@
     - [Зависимости и конфликты](engineering/build/dependencies.md)
 
 ??? note "36. Git"
-    - Как устроен Git
-    - Повседневная работа
-    - Командные процессы
-    - Когда всё сломалось
+    - [Как устроен Git](engineering/git/how-git-works.md)
+    - [Повседневная работа](engineering/git/daily-work.md)
+    - [Командные процессы](engineering/git/team-workflow.md)
+    - [Когда всё сломалось](engineering/git/recovery.md)
 
 ??? note "37. Инструменты и библиотеки"
     - Lombok
