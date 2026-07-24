@@ -179,10 +179,10 @@
     - [gRPC на практике](integration/grpc/grpc-in-practice.md)
 
 ??? note "25. WebSocket"
-    - Что такое WebSocket
-    - Установка соединения
-    - WebSocket в Spring
-    - Эксплуатация и ограничения
+    - [Что такое WebSocket](integration/websocket/what-is-websocket.md)
+    - [Установка соединения](integration/websocket/handshake.md)
+    - [WebSocket в Spring](integration/websocket/websocket-in-spring.md)
+    - [Эксплуатация и ограничения](integration/websocket/operations-limits.md)
 
 ??? note "26. SSE"
     - Что такое SSE

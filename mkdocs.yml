@@ -210,4 +210,9 @@ nav:
           - Protobuf и контракт: integration/grpc/protobuf-contract.md
           - Виды вызовов: integration/grpc/call-types.md
           - gRPC на практике: integration/grpc/grpc-in-practice.md
+      - WebSocket:
+          - Что такое WebSocket: integration/websocket/what-is-websocket.md
+          - Установка соединения: integration/websocket/handshake.md
+          - WebSocket в Spring: integration/websocket/websocket-in-spring.md
+          - Эксплуатация и ограничения: integration/websocket/operations-limits.md
   - Вопросы с собеседований: interview-questions.md
