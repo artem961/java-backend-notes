@@ -237,12 +237,12 @@
     - [Коммуникация сервисов](engineering/design/service-communication.md)
 
 ??? note "34. Тестирование"
-    - Виды тестов и подходы
-    - JUnit 5
-    - Моки и Mockito
-    - Тестирование Spring-приложений
-    - Testcontainers
-    - Хорошие и плохие тесты
+    - [Виды тестов и пирамида](engineering/testing/test-types.md)
+    - [JUnit 5](engineering/testing/junit5.md)
+    - [Моки и Mockito](engineering/testing/mockito.md)
+    - [Тестирование Spring-приложений](engineering/testing/spring-testing.md)
+    - [Testcontainers](engineering/testing/testcontainers.md)
+    - [Хорошие и плохие тесты](engineering/testing/good-tests.md)
 
 ??? note "35. Сборка проектов"
     - Maven
