@@ -355,4 +355,16 @@ nav:
           - Propagation и isolation: top-questions/spring-tx/propagation-isolation.md
           - Когда Transactional не срабатывает: top-questions/spring-tx/transactional-pitfalls.md
           - Исключения и откат транзакции: top-questions/spring-tx/rollback-exceptions.md
+      - JPA и Hibernate:
+          - Сущности и репозитории: top-questions/jpa/entities-repositories.md
+          - Жизненный цикл Entity: top-questions/jpa/entity-lifecycle.md
+          - Первый уровень кэша: top-questions/jpa/first-level-cache.md
+          - Связи, Cascade, orphanRemoval: top-questions/jpa/associations.md
+          - LAZY, EAGER, LazyInitializationException: top-questions/jpa/lazy-eager.md
+          - Проблема N+1: top-questions/jpa/n-plus-1.md
+          - Пагинация: top-questions/jpa/pagination.md
+          - Сложные запросы (JPQL, native, Criteria): top-questions/jpa/queries.md
+          - Оптимистичная и пессимистичная блокировка: top-questions/jpa/locking.md
+          - save, persist, merge: top-questions/jpa/save-persist-merge.md
+          - Hibernate на низком уровне: top-questions/jpa/hibernate-low-level.md
   - Вопросы с собеседований: interview-questions.md
