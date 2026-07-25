@@ -294,4 +294,8 @@ nav:
           - Основы работы в терминале: infrastructure/linux/terminal-basics.md
           - Процессы и ресурсы: infrastructure/linux/processes.md
           - Диагностика приложения на сервере: infrastructure/linux/diagnostics.md
+      - CI/CD:
+          - Что такое CI/CD: infrastructure/cicd/what-is-cicd.md
+          - GitHub Actions и GitLab CI: infrastructure/cicd/pipelines.md
+          - Выкатка: infrastructure/cicd/deployment.md
   - Вопросы с собеседований: interview-questions.md

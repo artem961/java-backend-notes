@@ -281,9 +281,9 @@
     - [Диагностика приложения на сервере](infrastructure/linux/diagnostics.md)
 
 ??? note "41. CI/CD"
-    - Что такое CI/CD
-    - GitHub Actions и GitLab CI
-    - Выкатка
+    - [Что такое CI/CD](infrastructure/cicd/what-is-cicd.md)
+    - [GitHub Actions и GitLab CI](infrastructure/cicd/pipelines.md)
+    - [Выкатка](infrastructure/cicd/deployment.md)
 
 ## Мониторинг и наблюдаемость
 
