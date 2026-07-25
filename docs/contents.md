@@ -385,6 +385,11 @@
     - [Что такое REST и его принципы](top-questions/rest/rest-principles.md)
     - [Идемпотентность HTTP-методов](top-questions/rest/http-idempotency.md)
     - [Вызовы между сервисами](top-questions/rest/service-to-service.md)
+    - [Версии HTTP и мультиплексирование](top-questions/rest/http-versions.md)
+
+??? note "Кэширование"
+    - [Стратегии кэширования, плюсы и минусы](top-questions/caching/caching-strategies.md)
+    - [Кэширование в REST](top-questions/caching/rest-caching.md)
 
 ??? note "Паттерны и согласованность"
     - [SOLID](top-questions/patterns/solid.md)
