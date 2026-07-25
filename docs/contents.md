@@ -353,6 +353,12 @@
     - [AOP, прокси, pointcut, advice](top-questions/spring/aop.md)
     - [Фильтр, интерсептор, аспект](top-questions/spring/filter-interceptor-aspect.md)
 
+??? note "Spring транзакции"
+    - [Как работает `@Transactional`](top-questions/spring-tx/transactional.md)
+    - [Propagation и isolation](top-questions/spring-tx/propagation-isolation.md)
+    - [Когда `@Transactional` не срабатывает](top-questions/spring-tx/transactional-pitfalls.md)
+    - [Исключения и откат транзакции](top-questions/spring-tx/rollback-exceptions.md)
+
 ## Отдельные страницы
 
 - [Вопросы с собеседований](interview-questions.md) — задачи и ситуации
