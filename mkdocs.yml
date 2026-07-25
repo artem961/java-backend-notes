@@ -367,4 +367,22 @@ nav:
           - Оптимистичная и пессимистичная блокировка: top-questions/jpa/locking.md
           - save, persist, merge: top-questions/jpa/save-persist-merge.md
           - Hibernate на низком уровне: top-questions/jpa/hibernate-low-level.md
+      - SQL и базы данных:
+          - Уровни изоляции и аномалии: top-questions/sql/isolation-levels.md
+          - MVCC в PostgreSQL: top-questions/sql/mvcc.md
+          - Индексы: top-questions/sql/indexes.md
+      - Безопасность:
+          - Веб-атаки (CSRF, XSS, SQL Injection): top-questions/security/web-attacks.md
+      - HTTP и REST:
+          - Что такое REST и его принципы: top-questions/rest/rest-principles.md
+          - Идемпотентность HTTP-методов: top-questions/rest/http-idempotency.md
+          - Вызовы между сервисами: top-questions/rest/service-to-service.md
+      - Паттерны и согласованность:
+          - SOLID: top-questions/patterns/solid.md
+          - Singleton, Factory, Strategy, Builder: top-questions/patterns/gof-patterns.md
+          - Паттерны в Spring: top-questions/patterns/patterns-in-spring.md
+          - Монолит vs микросервисы: top-questions/patterns/monolith-microservices.md
+          - CAP-теорема: top-questions/patterns/cap.md
+          - Eventual consistency: top-questions/patterns/eventual-consistency.md
+          - Идемпотентность в распределёнке: top-questions/patterns/idempotency-distributed.md
   - Вопросы с собеседований: interview-questions.md
