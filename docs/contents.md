@@ -323,6 +323,14 @@
 ??? note "Java Core"
     - [`equals` и `hashCode` вместе](top-questions/java-core/equals-hashcode.md)
 
+??? note "Коллекции"
+    - [Как устроен `HashMap`](top-questions/collections/hashmap-internals.md)
+    - [`HashMap` vs `TreeMap` vs `LinkedHashMap`](top-questions/collections/map-implementations.md)
+    - [Fail-fast и `ConcurrentModificationException`](top-questions/collections/fail-fast.md)
+
+??? note "Stream API"
+    - [`map` vs `flatMap`](top-questions/streams/map-vs-flatmap.md)
+
 ## Отдельные страницы
 
 - [Вопросы с собеседований](interview-questions.md) — задачи и ситуации

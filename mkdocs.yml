@@ -324,4 +324,10 @@ nav:
   - Топ вопросов:
       - Java Core:
           - equals и hashCode вместе: top-questions/java-core/equals-hashcode.md
+      - Коллекции:
+          - Как устроен HashMap: top-questions/collections/hashmap-internals.md
+          - HashMap vs TreeMap vs LinkedHashMap: top-questions/collections/map-implementations.md
+          - Fail-fast и ConcurrentModificationException: top-questions/collections/fail-fast.md
+      - Stream API:
+          - map vs flatMap: top-questions/streams/map-vs-flatmap.md
   - Вопросы с собеседований: interview-questions.md
