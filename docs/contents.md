@@ -229,6 +229,7 @@
     - [Паттерны в Spring](engineering/design/patterns-in-spring.md)
     - [Слои приложения](engineering/design/layers.md)
     - [Монолит и микросервисы](engineering/design/monolith-vs-microservices.md)
+    - [SOA](engineering/design/soa.md)
     - [Проблемы распределённых систем и CAP](engineering/design/distributed-challenges.md)
     - [Устойчивость: таймауты, ретраи, circuit breaker](engineering/design/resilience.md)
     - [Согласованность данных и Saga](engineering/design/consistency-saga.md)
