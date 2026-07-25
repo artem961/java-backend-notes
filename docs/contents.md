@@ -342,6 +342,17 @@
     - [Happens-before и JMM](top-questions/concurrency/happens-before.md)
     - [`ThreadLocal`](top-questions/concurrency/threadlocal.md)
 
+??? note "Spring Core, Boot, MVC"
+    - [Как устроен Spring изнутри](top-questions/spring/spring-architecture.md)
+    - [IoC и DI, жизненный цикл бина](top-questions/spring/ioc-di.md)
+    - [Скоупы бинов](top-questions/spring/bean-scopes.md)
+    - [Автоконфигурация Spring Boot](top-questions/spring/autoconfiguration.md)
+    - [Как запускается Spring Boot](top-questions/spring/boot-startup.md)
+    - [`@Component`, `@Service`, `@Repository`, `@Controller`](top-questions/spring/stereotype-annotations.md)
+    - [Путь запроса в Spring MVC](top-questions/spring/mvc-request-path.md)
+    - [AOP, прокси, pointcut, advice](top-questions/spring/aop.md)
+    - [Фильтр, интерсептор, аспект](top-questions/spring/filter-interceptor-aspect.md)
+
 ## Отдельные страницы
 
 - [Вопросы с собеседований](interview-questions.md) — задачи и ситуации
