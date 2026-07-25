@@ -321,4 +321,7 @@ nav:
           - Логирование в Java: monitoring/logging/logging-in-java.md
           - Что и как логировать: monitoring/logging/what-to-log.md
           - Логи в продакшене: monitoring/logging/logs-in-prod.md
+  - Топ вопросов:
+      - Java Core:
+          - equals и hashCode вместе: top-questions/java-core/equals-hashcode.md
   - Вопросы с собеседований: interview-questions.md

@@ -315,6 +315,14 @@
     - [Что и как логировать](monitoring/logging/what-to-log.md)
     - [Логи в продакшене](monitoring/logging/logs-in-prod.md)
 
+## Топ вопросов
+
+Разбор самых частых вопросов на собеседовании — по одному файлу на вопрос,
+с объяснением с нуля, примерами и схемами.
+
+??? note "Java Core"
+    - [`equals` и `hashCode` вместе](top-questions/java-core/equals-hashcode.md)
+
 ## Отдельные страницы
 
 - [Вопросы с собеседований](interview-questions.md) — задачи и ситуации
