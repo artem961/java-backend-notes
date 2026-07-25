@@ -290,4 +290,8 @@ nav:
           - Зачем нужен Kubernetes: infrastructure/k8s/why-kubernetes.md
           - Основные объекты: infrastructure/k8s/objects.md
           - Приложение в кластере: infrastructure/k8s/app-in-cluster.md
+      - Linux:
+          - Основы работы в терминале: infrastructure/linux/terminal-basics.md
+          - Процессы и ресурсы: infrastructure/linux/processes.md
+          - Диагностика приложения на сервере: infrastructure/linux/diagnostics.md
   - Вопросы с собеседований: interview-questions.md

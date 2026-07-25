@@ -276,9 +276,9 @@
     - [Приложение в кластере](infrastructure/k8s/app-in-cluster.md)
 
 ??? note "40. Linux"
-    - Основы работы в терминале
-    - Процессы и ресурсы
-    - Диагностика приложения на сервере
+    - [Основы работы в терминале](infrastructure/linux/terminal-basics.md)
+    - [Процессы и ресурсы](infrastructure/linux/processes.md)
+    - [Диагностика приложения на сервере](infrastructure/linux/diagnostics.md)
 
 ??? note "41. CI/CD"
     - Что такое CI/CD
