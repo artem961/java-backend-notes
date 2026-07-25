@@ -287,29 +287,31 @@
 
 ## Мониторинг и наблюдаемость
 
-??? note "42. Наблюдаемость и микросервисы"
-    - Что такое наблюдаемость
-    - Мониторинг распределённой системы
-    - Здоровье сервиса
+??? note "42. Наблюдаемость и три столпа"
+    - [Мониторинг и наблюдаемость](monitoring/observability/three-pillars.md)
+    - [Здоровье сервиса](monitoring/observability/health.md)
 
-??? note "43. Метрики приложения и бизнес-метрики"
-    - Метрики приложения
-    - Как отдавать метрики из Spring
-    - Бизнес-метрики
+??? note "43. Метрики"
+    - [Метрики важные бэкендеру](monitoring/metrics/backend-metrics.md)
+    - [Метрики из Spring](monitoring/metrics/spring-metrics.md)
 
 ??? note "44. Prometheus и алертинг"
-    - Как работает Prometheus
-    - Запросы к метрикам
-    - Алертинг
+    - [Как работает Prometheus](monitoring/prometheus/how-prometheus-works.md)
+    - [PromQL — запросы к метрикам](monitoring/prometheus/promql.md)
+    - [Алертинг](monitoring/prometheus/alerting.md)
 
-??? note "45. Grafana"
-    - Дашборды
-    - Разбор инцидента по графикам
+??? note "45. Grafana и дашборды"
+    - [Дашборды бэкендера](monitoring/grafana/dashboards.md)
+    - [Разбор инцидента по графикам](monitoring/grafana/incident.md)
 
-??? note "46. Логирование"
-    - Логирование в Java
-    - Что и как логировать
-    - Логи в продакшене
+??? note "46. Распределённый трейсинг"
+    - [Трейсинг запросов](monitoring/tracing/request-tracing.md)
+    - [Инструменты трейсинга](monitoring/tracing/tools.md)
+
+??? note "47. Логирование"
+    - [Логирование в Java](monitoring/logging/logging-in-java.md)
+    - [Что и как логировать](monitoring/logging/what-to-log.md)
+    - [Логи в продакшене](monitoring/logging/logs-in-prod.md)
 
 ## Отдельные страницы
 
