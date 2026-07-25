@@ -235,6 +235,7 @@
     - [Outbox и надёжная публикация событий](engineering/design/outbox.md)
     - [Идемпотентность и дедупликация](engineering/design/idempotency.md)
     - [Коммуникация сервисов](engineering/design/service-communication.md)
+    - [Событийная архитектура](engineering/design/event-driven.md)
 
 ??? note "34. Тестирование"
     - [Виды тестов и пирамида](engineering/testing/test-types.md)
