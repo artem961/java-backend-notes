@@ -202,6 +202,7 @@
     - [Продюсер](integration/kafka/producer.md)
     - [Консьюмер](integration/kafka/consumer.md)
     - [Гарантии доставки](integration/kafka/delivery-guarantees.md)
+    - [Проблемы и ограничения](integration/kafka/problems-limitations.md)
     - [Kafka в Spring](integration/kafka/kafka-in-spring.md)
 
 ??? note "30. Avro и Schema Registry"
