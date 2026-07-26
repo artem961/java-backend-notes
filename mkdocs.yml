@@ -382,6 +382,16 @@ nav:
       - Кэширование:
           - Стратегии кэширования, плюсы и минусы: top-questions/caching/caching-strategies.md
           - Кэширование в REST: top-questions/caching/rest-caching.md
+      - Kafka:
+          - Порядок сообщений: top-questions/kafka/message-ordering.md
+          - Семантики доставки: top-questions/kafka/delivery-semantics.md
+          - Consumer group и партиции: top-questions/kafka/consumer-group-partitions.md
+          - Коммит offset (auto vs ручной): top-questions/kafka/offset-commit.md
+          - Падение консьюмера и offset: top-questions/kafka/offset-crash-scenarios.md
+          - Долгая обработка и rebalance: top-questions/kafka/long-poll-rebalance.md
+          - Как выбрать число партиций: top-questions/kafka/partition-count.md
+          - Consumer lag: top-questions/kafka/consumer-lag.md
+          - Идемпотентность потребителя: top-questions/kafka/consumer-idempotency.md
       - Паттерны и согласованность:
           - SOLID: top-questions/patterns/solid.md
           - Singleton, Factory, Strategy, Builder: top-questions/patterns/gof-patterns.md
