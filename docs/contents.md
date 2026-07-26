@@ -323,8 +323,10 @@
 
 ??? note "Java Core"
     - [`equals` и `hashCode` вместе](top-questions/java-core/equals-hashcode.md)
+    - [Иерархия исключений](top-questions/java-core/exception-hierarchy.md)
 
 ??? note "Коллекции"
+    - [Иерархия коллекций](top-questions/collections/collections-hierarchy.md)
     - [Как устроен `HashMap`](top-questions/collections/hashmap-internals.md)
     - [`HashMap` vs `TreeMap` vs `LinkedHashMap`](top-questions/collections/map-implementations.md)
     - [Fail-fast и `ConcurrentModificationException`](top-questions/collections/fail-fast.md)
