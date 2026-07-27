@@ -124,7 +124,11 @@
     - [Партиционирование](data/scaling/partitioning.md)
     - [Шардирование](data/scaling/sharding.md)
 
-??? note "18. JPA и Hibernate"
+??? note "18. JDBC"
+    - [Что такое JDBC](data/jdbc/what-is-jdbc.md)
+    - [JDBC vs ORM](data/jdbc/jdbc-vs-orm.md)
+
+??? note "19. JPA и Hibernate"
     - [Что такое JPA и ORM](data/jpa/what-is-jpa.md)
     - [Сущности и маппинг](data/jpa/entities-mapping.md)
     - [Persistence context](data/jpa/persistence-context.md)
@@ -134,12 +138,12 @@
     - [Блокировки и конкурентный доступ](data/jpa/locking.md)
     - [Кэш второго уровня](data/jpa/second-level-cache.md)
 
-??? note "19. Миграции БД"
+??? note "20. Миграции БД"
     - [Зачем нужны миграции](data/migrations/why-migrations.md)
     - [Flyway и Liquibase](data/migrations/flyway-liquibase.md)
     - [Миграции на живой базе](data/migrations/live-migrations.md)
 
-??? note "20. Redis"
+??? note "21. Redis"
     - [Что такое Redis](data/redis/what-is-redis.md)
     - [Кэширование: стратегии](data/redis/caching-strategies.md)
     - [Проблемы кэширования](data/redis/caching-problems.md)
@@ -147,7 +151,7 @@
     - [Redis в Spring](data/redis/redis-in-spring.md)
     - [Персистентность и надёжность](data/redis/persistence.md)
 
-??? note "21. S3 и MinIO"
+??? note "22. S3 и MinIO"
     - [Объектное хранилище](data/s3/object-storage.md)
     - [S3 и MinIO](data/s3/s3-minio.md)
     - [Работа из приложения](data/s3/from-application.md)
@@ -155,7 +159,7 @@
 
 ## Взаимодействие
 
-??? note "22. HTTP"
+??? note "23. HTTP"
     - [Как работает HTTP](integration/http/how-http-works.md)
     - [Методы и коды ответа](integration/http/methods-status-codes.md)
     - [Заголовки и тело](integration/http/headers-body.md)
@@ -165,38 +169,38 @@
     - [Обратный прокси и балансировщик](integration/http/reverse-proxy-balancer.md)
     - [CORS](integration/http/cors.md)
 
-??? note "23. REST"
+??? note "24. REST"
     - [Что такое REST](integration/rest/what-is-rest.md)
     - [Проектирование ресурсов и данных](integration/rest/resource-design.md)
     - [Ошибки и статусы](integration/rest/errors-statuses.md)
     - [Идемпотентность и надёжность](integration/rest/idempotency-reliability.md)
     - [Версионирование и эволюция](integration/rest/versioning.md)
 
-??? note "24. gRPC"
+??? note "25. gRPC"
     - [Что такое gRPC и зачем](integration/grpc/what-is-grpc.md)
     - [Protobuf и контракт](integration/grpc/protobuf-contract.md)
     - [Виды вызовов](integration/grpc/call-types.md)
     - [gRPC на практике](integration/grpc/grpc-in-practice.md)
 
-??? note "25. WebSocket"
+??? note "26. WebSocket"
     - [Что такое WebSocket](integration/websocket/what-is-websocket.md)
     - [Установка соединения](integration/websocket/handshake.md)
     - [WebSocket в Spring](integration/websocket/websocket-in-spring.md)
     - [Эксплуатация и ограничения](integration/websocket/operations-limits.md)
 
-??? note "26. SSE"
+??? note "27. SSE"
     - [Что такое SSE](integration/sse/what-is-sse.md)
     - [SSE в Spring](integration/sse/sse-in-spring.md)
     - [Что выбрать: WebSocket, SSE или Long Polling](integration/sse/websocket-vs-sse-vs-polling.md)
 
-??? note "27. Long Polling"
+??? note "28. Long Polling"
     - [Как устроен long polling](integration/long-polling/long-polling.md)
 
-??? note "28. SMTP"
+??? note "29. SMTP"
     - [Как работает почта](integration/smtp/how-email-works.md)
     - [Отправка писем из приложения](integration/smtp/sending-from-application.md)
 
-??? note "29. Kafka"
+??? note "30. Kafka"
     - [Что такое Kafka и зачем](integration/kafka/what-is-kafka.md)
     - [Устройство](integration/kafka/architecture.md)
     - [Продюсер](integration/kafka/producer.md)
@@ -205,23 +209,23 @@
     - [Проблемы и ограничения](integration/kafka/problems-limitations.md)
     - [Kafka в Spring](integration/kafka/kafka-in-spring.md)
 
-??? note "30. Avro и Schema Registry"
+??? note "31. Avro и Schema Registry"
     - [Зачем нужна схема](integration/avro/why-schema.md)
     - [Avro](integration/avro/avro.md)
     - [Schema Registry](integration/avro/schema-registry.md)
     - [Эволюция схем](integration/avro/schema-evolution.md)
 
-??? note "31. OpenAPI и Swagger"
+??? note "32. OpenAPI и Swagger"
     - [Что такое OpenAPI](integration/openapi/what-is-openapi.md)
     - [Code-first и contract-first](integration/openapi/code-first-contract-first.md)
 
-??? note "32. TypeSpec"
+??? note "33. TypeSpec"
     - [Что такое TypeSpec](integration/typespec/what-is-typespec.md)
     - [Генерация и процесс работы](integration/typespec/generation-workflow.md)
 
 ## Инженерия
 
-??? note "33. Проектирование и паттерны"
+??? note "34. Проектирование и паттерны"
     - [SOLID](engineering/design/solid.md)
     - [Другие принципы проектирования](engineering/design/principles.md)
     - [Порождающие паттерны](engineering/design/patterns-creational.md)
@@ -239,7 +243,7 @@
     - [Коммуникация сервисов](engineering/design/service-communication.md)
     - [Событийная архитектура](engineering/design/event-driven.md)
 
-??? note "34. Тестирование"
+??? note "35. Тестирование"
     - [Виды тестов и пирамида](engineering/testing/test-types.md)
     - [JUnit 5](engineering/testing/junit5.md)
     - [Моки и Mockito](engineering/testing/mockito.md)
@@ -247,18 +251,18 @@
     - [Testcontainers](engineering/testing/testcontainers.md)
     - [Хорошие и плохие тесты](engineering/testing/good-tests.md)
 
-??? note "35. Сборка проектов"
+??? note "36. Сборка проектов"
     - [Maven](engineering/build/maven.md)
     - [Gradle](engineering/build/gradle.md)
     - [Зависимости и конфликты](engineering/build/dependencies.md)
 
-??? note "36. Git"
+??? note "37. Git"
     - [Как устроен Git](engineering/git/how-git-works.md)
     - [Повседневная работа](engineering/git/daily-work.md)
     - [Командные процессы](engineering/git/team-workflow.md)
     - [Когда всё сломалось](engineering/git/recovery.md)
 
-??? note "37. Инструменты и библиотеки"
+??? note "38. Инструменты и библиотеки"
     - [Lombok](engineering/tools/lombok.md)
     - [MapStruct](engineering/tools/mapstruct.md)
     - [Thymeleaf](engineering/tools/thymeleaf.md)
@@ -268,50 +272,50 @@
 
 ## Инфраструктура
 
-??? note "38. Docker"
+??? note "39. Docker"
     - [Контейнеры и образы](infrastructure/docker/containers-images.md)
     - [Dockerfile и сборка](infrastructure/docker/dockerfile.md)
     - [Запуск и compose](infrastructure/docker/compose.md)
 
-??? note "39. Kubernetes"
+??? note "40. Kubernetes"
     - [Зачем нужен Kubernetes](infrastructure/k8s/why-kubernetes.md)
     - [Основные объекты](infrastructure/k8s/objects.md)
     - [Приложение в кластере](infrastructure/k8s/app-in-cluster.md)
 
-??? note "40. Linux"
+??? note "41. Linux"
     - [Основы работы в терминале](infrastructure/linux/terminal-basics.md)
     - [Процессы и ресурсы](infrastructure/linux/processes.md)
     - [Диагностика приложения на сервере](infrastructure/linux/diagnostics.md)
 
-??? note "41. CI/CD"
+??? note "42. CI/CD"
     - [Что такое CI/CD](infrastructure/cicd/what-is-cicd.md)
     - [GitHub Actions и GitLab CI](infrastructure/cicd/pipelines.md)
     - [Выкатка](infrastructure/cicd/deployment.md)
 
 ## Мониторинг и наблюдаемость
 
-??? note "42. Наблюдаемость и три столпа"
+??? note "43. Наблюдаемость и три столпа"
     - [Мониторинг и наблюдаемость](monitoring/observability/three-pillars.md)
     - [Здоровье сервиса](monitoring/observability/health.md)
 
-??? note "43. Метрики"
+??? note "44. Метрики"
     - [Метрики важные бэкендеру](monitoring/metrics/backend-metrics.md)
     - [Метрики из Spring](monitoring/metrics/spring-metrics.md)
 
-??? note "44. Prometheus и алертинг"
+??? note "45. Prometheus и алертинг"
     - [Как работает Prometheus](monitoring/prometheus/how-prometheus-works.md)
     - [PromQL — запросы к метрикам](monitoring/prometheus/promql.md)
     - [Алертинг](monitoring/prometheus/alerting.md)
 
-??? note "45. Grafana и дашборды"
+??? note "46. Grafana и дашборды"
     - [Дашборды бэкендера](monitoring/grafana/dashboards.md)
     - [Разбор инцидента по графикам](monitoring/grafana/incident.md)
 
-??? note "46. Распределённый трейсинг"
+??? note "47. Распределённый трейсинг"
     - [Трейсинг запросов](monitoring/tracing/request-tracing.md)
     - [Инструменты трейсинга](monitoring/tracing/tools.md)
 
-??? note "47. Логирование"
+??? note "48. Логирование"
     - [Логирование в Java](monitoring/logging/logging-in-java.md)
     - [Что и как логировать](monitoring/logging/what-to-log.md)
     - [Логи в продакшене](monitoring/logging/logs-in-prod.md)

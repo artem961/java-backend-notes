@@ -164,6 +164,9 @@ nav:
           - Чтение с реплик и согласованность: data/scaling/replica-reads.md
           - Партиционирование: data/scaling/partitioning.md
           - Шардирование: data/scaling/sharding.md
+      - JDBC:
+          - Что такое JDBC: data/jdbc/what-is-jdbc.md
+          - JDBC vs ORM: data/jdbc/jdbc-vs-orm.md
       - JPA и Hibernate:
           - Что такое JPA и ORM: data/jpa/what-is-jpa.md
           - Сущности и маппинг: data/jpa/entities-mapping.md
